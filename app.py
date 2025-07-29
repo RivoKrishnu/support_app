@@ -18,12 +18,14 @@ CRISIS_KEYWORDS = [
     "can't go on", "hopeless", "worthless", "depressed", "panic attack"
 ]
 
+
 CRISIS_MESSAGE = (
     "It sounds like you're going through a really tough time. "
-    "Please consider reaching out for immediate support:\n\n"
-    "National Suicide Prevention Lifeline: 1-800-273-8255 (USA)\n"
-    "Crisis Text Line: Text HOME to 741741 (USA)\n"
-    "You are not alone, and help is available."
+    "Please consider reaching out for immediate support in India:\n\n"
+    "• KIRAN Govt. Helpline: 1800-599-0019 (24/7, multi-language)\n"
+    "• Vandrevala Foundation (call/WhatsApp): +91 9999666555 (24/7)\n"
+    "• Tele MANAS: 14416 (24/7, 20+ languages)\n"
+    "You are not alone, and help is available."  # option: add more if you wish
 )
 
 
