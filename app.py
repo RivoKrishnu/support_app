@@ -37,7 +37,7 @@ def generate_response(conversation_history):
     return response.text.strip()
 
 # Streamlit UI
-st.title("Mental Health Chatbot with Gemini API")
+st.title("Mental Health Chatbot")
 
 if "history" not in st.session_state:
     st.session_state.history = []
