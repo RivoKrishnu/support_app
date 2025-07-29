@@ -3,8 +3,8 @@ import google.generativeai as genai
 import os
 import re
 
-# Load Gemini API key from Streamlit secrets or environment variables
-api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
+# Load Gemini API key
+api_key = "AIzaSyCwVh5ckIjNVOsgTirLX3rxV_EwOb0n_NU"
 genai.configure(api_key=api_key)
 
 # Basic crisis keyword list & message
