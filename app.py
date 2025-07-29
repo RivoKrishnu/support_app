@@ -7,7 +7,7 @@ import re
 from streamlit_chat import message
 
 # Load Gemini API key
-api_key = "AIzaSyCwVh5ckIjNVOsgTirLX3rxV_EwOb0n_NU"
+api_key = "Gemini_API"
 
 genai.configure(api_key=api_key)
 
