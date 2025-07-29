@@ -68,7 +68,7 @@ def generate_response(chat_history: list) -> str:
 # Streamlit UI setup
 st.set_page_config(page_title="Mental Health Chatbot)", page_icon="💬")
 
-st.title("💬 Mental Health Care Chatbot (Gemini)")
+st.title("💬 Mental Health Care Chatbot)")
 st.markdown(
     "Hello! I'm here to listen and provide supportive, empathetic responses. "
     "Please note this chatbot is not a replacement for professional help."
